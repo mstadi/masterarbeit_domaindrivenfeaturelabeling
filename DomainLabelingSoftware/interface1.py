@@ -1,12 +1,4 @@
 # -*- coding: utf-8 -*-
-
-# Form implementation generated from reading ui file 'c:\Users\marku\msapp\interface2.ui'
-#
-# Created by: PyQt5 UI code generator 5.9.2
-#
-# WARNING! All changes made in this file will be lost!
-
-
 import pyqtgraph as pg
 import sys
 import csv
@@ -22,11 +14,8 @@ from PyQt5.QtGui import QImage, QIcon, QPixmap, QPalette, QBrush, QColor, QFontD
 import re
 
 SERVER_NAME = 'DESKTOP-0NHDTT5'
-##'DESKTOP-MTFA7QD' - MSLAPTOP
-##DESKTOP-0NHDTT5  MSDESKTOP
 DATABASE_NAME = 'wsdm_raw'
 ##USERNAME = 'mstadi'
-##PASSWORD = 'Elviz120!'
 
 ##Feature objects
 global sentence
